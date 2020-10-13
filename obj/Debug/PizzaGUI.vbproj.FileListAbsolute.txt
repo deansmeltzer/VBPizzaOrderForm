@@ -1,0 +1,43 @@
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe.config
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.pdb
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.xml
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbprojAssemblyReference.cache
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Resources.resources
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.GenerateResource.cache
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.exe
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.xml
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.pdb
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Form2.resources
+C:\Users\Deans\source\repos\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Form1.resources
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbprojAssemblyReference.cache
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Form1.resources
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Resources.resources
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.GenerateResource.cache
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.exe
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.xml
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.pdb
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe.config
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.pdb
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.xml
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.resx
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.Designer.vb
+C:\Users\Deans\Desktop\Smeltzer Lab02\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.vb
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.resx
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.Designer.vb
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI Lab03.vb
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe.config
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.exe
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.pdb
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\bin\Debug\PizzaGUI.xml
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbprojAssemblyReference.cache
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Form1.resources
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.Resources.resources
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.GenerateResource.cache
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.exe
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.xml
+C:\Users\Deans\Desktop\Smeltzer Lab04\PizzaGUI\PizzaGUI\obj\Debug\PizzaGUI.pdb
